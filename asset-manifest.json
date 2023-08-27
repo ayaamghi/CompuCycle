@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/compucycle.org/static/css/main.16acd16b.css",
-    "main.js": "/compucycle.org/static/js/main.20f26467.js",
-    "static/js/787.7b10dd80.chunk.js": "/compucycle.org/static/js/787.7b10dd80.chunk.js",
-    "static/media/logo.svg": "/compucycle.org/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/compucycle.org/index.html",
-    "main.16acd16b.css.map": "/compucycle.org/static/css/main.16acd16b.css.map",
-    "main.20f26467.js.map": "/compucycle.org/static/js/main.20f26467.js.map",
-    "787.7b10dd80.chunk.js.map": "/compucycle.org/static/js/787.7b10dd80.chunk.js.map"
+    "main.css": "/static/css/main.16acd16b.css",
+    "main.js": "/static/js/main.78c309de.js",
+    "static/js/787.7b10dd80.chunk.js": "/static/js/787.7b10dd80.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.16acd16b.css.map": "/static/css/main.16acd16b.css.map",
+    "main.78c309de.js.map": "/static/js/main.78c309de.js.map",
+    "787.7b10dd80.chunk.js.map": "/static/js/787.7b10dd80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16acd16b.css",
-    "static/js/main.20f26467.js"
+    "static/js/main.78c309de.js"
   ]
 }
